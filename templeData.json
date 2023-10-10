@@ -1,0 +1,42 @@
+  [
+    {
+        "_id": "648ac158b7bd485c9ba38eb4",
+        "name": "Amararama Temp..",
+        "image": "temple_1686815628442.png",
+        "latitude": "16.5814195364896",
+        "longitude": "80.35908693577456",
+        "location": "Amaravathi, An.."
+    },
+    {
+        "_id": "648ab7bfb7bd485c9ba38da0",
+        "name": "Ksheera Ramali..",
+        "image": "temple_1686812607876.jpeg",
+        "latitude": "16.517075097057162",
+        "longitude": "81.7279130704297",
+        "location": "Palakollu, And.."
+    },
+    {
+        "_id": "648aacab637bf30f68a56efc",
+        "name": "Bhimeswara Swa..",
+        "image": "temple_1686809771232.jpeg",
+        "latitude": "16.79296077520136",
+        "longitude": "82.0632659824952",
+        "location": "Draksharama, A.."
+    },
+    {
+        "_id": "6489a65a0f645409bca16551",
+        "name": "Sri Someswara ..",
+        "image": "temple_1686742618978.jpeg",
+        "latitude": "16.542256010039427",
+        "longitude": "81.5364674835653",
+        "location": "Bhimavaram, We.."
+    },
+    {
+        "_id": "645b4f24c5447111a44f1c7b",
+        "name": "Sri Chalukya K..",
+        "image": "temple_645b4f24c5447111a44f1c7b_1683997317146.jpeg",
+        "latitude": "17.043122246518433",
+        "longitude": "82.1713115306882",
+        "location": " Samarlakota, .."
+    }
+]

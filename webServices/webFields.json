@@ -1,0 +1,278 @@
+{
+    "HEADERS": {
+        "USER_TYPE": "user-type",
+        "USER_TYPE_VALUE": "appUser",
+        "ACCESS_TOKEN": "x-access-token",
+        "CONTENT_TYPE": "Content-Type",
+        "CONTENT_TYPE_VALUE": "application/json",
+        "X_CLIENT_ID": "x-client-id",
+        "X_CLIENT_SECRET": "x-client-secret"
+    },
+    "APP_VERSION": {
+        "MODE": "app-version/list"
+    },
+    "LOGIN": {
+        "MODE": "auth/signin",
+        "REQUEST_OTP_REQUEST": "otpRequest",
+        "RESPONSE_TYPE": "type",
+        "COUNTRY_LIST": "public/country-list",
+        "LOGIN": "auth/login",
+        "SIGNUP": "auth/signup",
+        "LOGIN_INTERNATIONAL": "auth/login-international",
+        "SIGNUP_INTERNATIONAL": "auth/signup-international",
+        "USER_EXIST": "public/check-app-user"
+    },
+    "OTP": {
+        "REQUEST_VALIDATE_OTP": "validateOTP",
+        "RESPONSE_TYPE": "type"
+    },
+    "BANNERS": {
+        "MODE": "banners/list",
+        "REQUEST_SKIP": "skip",
+        "RESPONSE_LIMIT": "limit",
+        "RESPONSE_DATA": "data"
+    },
+    "ALL_GAMES": {
+        "MODE": "games/list",
+        "SINGLE_GAME": "games/get"
+    },
+    "FEATURED_TOURNAMENTS": {
+        "MODE": "events/list"
+    },
+    "ACCOUNT": {
+        "MODE": "account/profile",
+        "SYNC_CONTACTS": "account/sync-contacts"
+    },
+    "MY_RECENT_TRANSACTIONS": {
+        "MODE": "transactions/list"
+    },
+    "GAME_TYPES": {
+        "MODE": "game-types/list"
+    },
+    "HTML5GAME_CATEGORIES": {
+        "MODE": "html5-categories/list"
+    },
+    "HTML5_GAME": {
+        "MODE": "html5-games/list",
+        "UPDATE_VIEW": "html5-games/update-view"
+    },
+    "HTML5GAME_SETTINGS": {
+        "MODE": "html5-settings/list"
+    },
+    "SEARCH_USER": {
+        "MODE": "users/list"
+    },
+    "CONTEST_LIST": {
+        "MODE": "contests/list"
+    },
+    "TEMPLE_LIST": {
+        "MODE": "public/get-temple-by-category"
+    },
+    "GENERATE_PAYMENT_TOKEN": {
+        "MODE": "cftoken/order",
+        "REQUEST_ORDER_CURRENCY": "INR"
+    },
+    "JOIN_CONTEST_TOURNAMENT": {
+        "MODE": "contest-users/create"
+    },
+    "CONTEST_DETAIL": {
+        "MODE": "contests/get"
+    },
+    "USER_CHECK": {
+        "MODE": "users/check"
+    },
+    "CREATE_TRANSACTIONS": {
+        "MODE": "transactions/create",
+        "COIN_STORE": "account/create-raz-transaction"
+    },
+    "VERIFY_PAYMENT": {
+        "MODE": "public/verify-payment"
+    },
+    "GET_PROFILE": {
+        "MODE": "account/profile"
+    },
+    "PROFILE_UPDATE": {
+        "MODE": "account/profile/update"
+    },
+    "STATE_LIST": {
+        "MODE": "public/state-list"
+    },
+    "UPDATE_TRANSACTIONS": {
+        "MODE": "transactions/update/"
+    },
+    "CHECK_TRANSACTION": {
+        "MODE": "transactions/get/"
+    },
+    "GET_WALLET_USAGE_LIMIT": {
+        "MODE": "account/wallet-usage-limit/"
+    },
+    "EMAIL_VERIFY_OTP": {
+        "MODE": "account/check-email",
+        "REQUEST_OTP_REQUEST": "otpRequest",
+        "REQUEST_VALIDATE_OTP": "validateOTP",
+        "RESPONSE_TYPE": "type"
+    },
+    "TOURNAMENT": {
+        "LIST": "events/list",
+        "GET": "events/get",
+        "PLAYERS": "event-leaderboards/list"
+    },
+    "MY_CONTEST_TOURNAMENT_LIST": {
+        "CONTEST": "contests/my-list",
+        "TOURNAMENT": "events/my-list"
+    },
+    "JOIN_VIA_INVITE_CODE": {
+        "GET": "account/contest-event-by-code"
+    },
+    "LEADERBOARD": {
+        "GET": "account/leaderboard",
+        "MONTHLY": "account/leaderboard-monthly",
+        "WEEKLY": "account/leaderboard-weekly",
+        "TODAY": "account/leaderboard-today",
+        "ALLOVER": "account/leaderboard-allOver"
+    },
+    "LINK_BANK_ACCOUNT": {
+        "MODE": "account/link-bank-account"
+    },
+    "LINK_UPI_ACCOUNT": {
+        "MODE": "account/link-upi-account"
+    },
+    "GAMERJI_POINTS": {
+        "MODE": "points/list"
+    },
+    "GAMERJI_POINTS_CATEGORY": {
+        "MODE": "point-categories/list"
+    },
+    "ADD_VIDOES": {
+        "MODE": "videos/create"
+    },
+    "CUSTOMER_CARE": {
+        "CATEGORY": "categories/search",
+        "GAME": "games/search",
+        "GAME_TYPE": "game-types/search",
+        "CREATE_TICKET": "tickets/create",
+        "TICKET_LIST": "tickets/list",
+        "TICKET_DETAIL": "tickets/get",
+        "TICKET_UPDATE": "tickets/update",
+        "UPLOAD_IMAGE": "tickets/upload"
+    },
+    "REPORT_ISSUE": {
+        "REQUEST": "account/contest-report-issue"
+    },
+    "RATE_CONTEST_TOURNAMENT": {
+        "RATE": "account/contest-rate"
+    },
+    "HOW_TO_PLAY": {
+        "GET": "account/how-to-play"
+    },
+    "VIDEO_REQUESTS_LIST": {
+        "MODE": "video-requests/list"
+    },
+    "VIDEO_LIST": {
+        "MODE": "videos/list-all"
+    },
+    "VIEW_ALL_VIDEO_LIST": {
+        "MODE": "live-streamings/list"
+    },
+    "TERMS_AND_CONDITIONS": {
+        "MODE": "public/page/terms"
+    },
+    "PRIVACY_POLICY": {
+        "MODE": "public/page/privacy-policy"
+    },
+    "APPLY_PROMO_CODE": {
+        "MODE": "account/apply-promo-code"
+    },
+    "GAMES_SEARCH_LIST": {
+        "MODE": "games/search"
+    },
+    "ADD_STREAMER_FORM": {
+        "MODE": "video-requests/create"
+    },
+    "WITHDRAW_NOW": {
+        "MODE": "account/withdrawal-request"
+    },
+    "DAILY_LOGIN_REWARDS_LIST": {
+        "MODE": "daily-rewards/list",
+        "COLLECT_DAILY_REWARD": "account/collect-daily-rewards",
+        "COLLECT_ONETIME_BONUS": "account/one-time-bonus-claim"
+    },
+    "DAILY_REWARDS_CHECK": {
+        "MODE": "account/daily-rewards"
+    },
+    "PROFILE_AVATAR_LIST": {
+        "MODE": "avatars/list"
+    },
+    "PROFILE": {
+        "MODE_AVATAR_LIST": "avatars/list",
+        "MODE_FREE_AVATAR_LIST": "avatars/free-list",
+        "MODE_BANNER_LIST": "user-banners/list",
+        "MODE_MEDAL_LIST": "medals/list",
+        "MODE_STAT_LIST": "account/game-statistics",
+        "MODE_EDIT_PROFILE": "account/profile/update",
+        "MODE_CONTEST_STATS": "account/contest-by-game",
+        "MODE_RANK_SUMMARY_BY_GAME_STATS": "account/rank-summery-by-game"
+    },
+    "WORLD_OF_ESPORTS": {
+        "MODE_BLOGS_LIST": "blogs/list",
+        "MODE_TOP_PROFILE_LIST": "users/list"
+    },
+    "EMAIL_INVOICE": {
+        "MODE": "transactions/send-invoice-email/"
+    },
+    "COLLEGIATE": {
+        "COLLEGE_LIST": "colleges/list/",
+        "COLLEGE_MEMBERS": "users/list"
+    },
+    "SIGN_UP_CODE": {
+        "APPLY_SIGN_UP_CODE": "public/apply-singup-code"
+    },
+    "COIN_STORE": {
+        "LIST": "coin-stores/list"
+    },
+    "REWARD": {
+        "CATEGORY_LIST": "reward-categories/list",
+        "PRODUCT_LIST": "reward-products/list",
+        "APPLY_REWARD": "account/apply-reward",
+        "MY_REWARD": "reward-products/my-list"
+    },
+    "SPONSOR_ADS_LIST": {
+        "MODE": "sponsor-ads/list"
+    },
+    "SPONSOR_ADS_LOG": {
+        "MODE": "account/sponsor-ad-log"
+    },
+    "BANNER_ADS_LOG": {
+        "MODE": "account/banner-ad-log"
+    },
+    "SCREENS_LIST": {
+        "MODE": "apk-screens/list"
+    },
+    "HOW_TO_JOIN": {
+        "LIST": "how-to-play/list"
+    },
+    "INFORMATIONS": {
+        "LIST": "informations/list"
+    },
+    "FRIENDS": {
+        "FOLLOW_USER": "account/follow-user",
+        "FOLLOWERS": "account/followers",
+        "FOLLOWINGS": "account/followings"
+    },
+    "AVATAR_CATEGORY": {
+        "LIST": "avatar-categories/list",
+        "BUY_AVATAR": "account/buy-avatar"
+    },
+    "PAYMENT_WALLET": {
+        "LIST": "payment-wallets/list"
+    },
+    "STRIP_PAYMENT": {
+        "MODE": "account/create-stripe-transaction",
+        "CREATE": "account/create-payment-intent"
+    },
+    "EARN_COIN": {
+        "APPLIST": "earn-coins/app-list/",
+        "CLAIM_COIN": "earn-coins/claim-coin/",
+        "HOME": "earn-coins/home/"
+    }
+}

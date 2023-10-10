@@ -1,0 +1,7 @@
+{
+  "name": "TempleGuideApp",
+  "displayName": "TempleGuideApp",
+  "plugins": [
+    "@notifee/react-native"
+  ]
+}

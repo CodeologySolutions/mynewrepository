@@ -1,0 +1,1 @@
+export { templeList, templeListFailed, requestTempleList, resetTempleListState } from './templeAction'

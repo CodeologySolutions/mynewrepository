@@ -1,0 +1,83 @@
+[
+  {
+      "_id": "6496bcd26767761d30e58bed",
+      "isActive": true,
+      "name": "108 Divya Desam",
+      "code": "Divya Desam",
+      "image": "category_1687600338817.jpeg",
+      "createdAt": "2023-06-24T09:52:18.831Z",
+      "updatedAt": "2023-06-24T09:52:46.171Z"
+  },
+  {
+      "_id": "648711f2de8cfa8d0a3a1a44",
+      "isActive": true,
+      "name": "Pancharamalu",
+      "code": "pancharamalu",
+      "image": "category_1686573554913.jpeg",
+      "createdAt": "2023-06-12T12:39:14.918Z",
+      "updatedAt": "2023-06-12T12:39:14.918Z"
+  },
+  {
+      "_id": "646b335d1e871e86d9cad6e9",
+      "isActive": true,
+      "name": "Panchabhutha Lingas",
+      "code": "panchabhutha",
+      "createdAt": "2023-05-22T09:18:21.833Z",
+      "updatedAt": "2023-05-24T12:07:41.107Z",
+      "image": "category_1684930061107.jpeg"
+  },
+  {
+      "_id": "645a17c8c5447111a44f1937",
+      "isActive": true,
+      "name": "Char Dham",
+      "code": "chardham",
+      "createdAt": "2023-05-09T09:52:08.520Z",
+      "updatedAt": "2023-05-24T12:00:05.884Z",
+      "image": "category_1684929605884.jpeg"
+  },
+  {
+      "_id": "645a17a2c5447111a44f191e",
+      "isActive": true,
+      "name": " Shakti Peethas",
+      "code": "shaktipeethas",
+      "createdAt": "2023-05-09T09:51:30.127Z",
+      "updatedAt": "2023-05-24T12:00:17.449Z",
+      "image": "category_1684929617449.jpeg"
+  },
+  {
+      "_id": "645a1782c5447111a44f1909",
+      "isActive": true,
+      "name": "Jyotirlingas",
+      "code": "jyotirlingas",
+      "createdAt": "2023-05-09T09:50:58.154Z",
+      "updatedAt": "2023-06-21T08:17:33.292Z",
+      "image": "category_1687335453292.jpeg"
+  },
+  {
+      "_id": "645a1751c5447111a44f18f0",
+      "isActive": true,
+      "name": "Recently Added Temples",
+      "code": "recent",
+      "createdAt": "2023-05-09T09:50:09.534Z",
+      "updatedAt": "2023-05-24T12:01:02.915Z",
+      "image": "category_1684929662915.jpeg"
+  },
+  {
+      "_id": "645a1733c5447111a44f18db",
+      "isActive": true,
+      "name": "Festival Based Temples",
+      "code": "festival",
+      "createdAt": "2023-05-09T09:49:39.267Z",
+      "updatedAt": "2023-05-24T12:01:09.943Z",
+      "image": "category_1684929669943.jpeg"
+  },
+  {
+      "_id": "64550b3375ef503dec715e22",
+      "isActive": true,
+      "name": "Famous Temples",
+      "code": "famous",
+      "createdAt": "2023-05-05T13:57:07.182Z",
+      "updatedAt": "2023-05-24T12:01:27.015Z",
+      "image": "category_1684929687015.jpeg"
+  }
+]

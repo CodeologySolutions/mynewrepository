@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285137125163",
+    "project_id": "templeguideapp",
+    "storage_bucket": "templeguideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285137125163:android:d533a9d31d918220b80f6e",
+        "android_client_info": {
+          "package_name": "com.templeguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285137125163-mb06hnkjj7uqmesbmh0s7nf02oj4mfh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVAvnKfnN3WazGZoMgnkHcrbTIvV11pVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285137125163-mb06hnkjj7uqmesbmh0s7nf02oj4mfh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
